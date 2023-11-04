@@ -1,0 +1,135 @@
+﻿
+Law Enforcement Conduct Commission
+
+In this fact sheet, we introduce the Law Enforcement Conduct Commission (LECC). We outline how complaints can be made by the public and public authorities about the LECC. The purpose of this fact sheet is to give general introductory information about the LECC and the complaints process. It does not contain legal advice.
+The LECC receives complaints about misconduct and administrative failures by NSW police officers, people who work for the NSW police force, and NSW Crime Commission personnel. The LECC may investigate complaints (and make recommendations for disciplinary action or prosecution) or refer complaints to other public bodies for investigation. The LECC is independent of the NSW Police Force. Its principal functions are to detect, investigate and prevent serious police misconduct.
+Legislation and Key Terms
+Relevant Legislation:
+• Law Enforcement Conduct Commission Act 2016 (NSW)
+• Independent Commission Against Corruption Act 1988 (NSW)
+Key terms:
+Administrative Employee: An individual employed within a law enforcement agency responsible for carrying out administrative or support functions, often not directly involved in law enforcement operations.
+Conciliation: A process involving a neutral third party that facilitates communication and negotiation between parties involved in a dispute, with the aim of reaching a mutually agreeable resolution without the need for legal action.
+Complaint: An expression of dissatisfaction where a response or resolution is wanted, expected or required.
+Complainant: A person who has made a complaint.
+Crime Commissioner Officer: An officer appointed or designated to oversee and manage specific aspects of criminal investigations, ensuring compliance with legal procedures and protocols.
+Disciplinary Infringement: An act or behavior by a law enforcement officer that violates established rules, regulations, or ethical standards, which may result in disciplinary action.
+Mediation: A similar process to conciliation, involving a neutral third party but with a more active role in suggesting potential solutions to help parties resolve their dispute.
+Police Misconduct: Wrongful or inappropriate behavior or actions by law enforcement officers that breach established rules, ethical standards, or legal regulations, potentially leading to legal consequences or disciplinary measures.
+Public Official: A person holding a government position or authority in the context of law enforcement, responsible for upholding the law and maintaining public order.
+
+Step 1: What type of Complaints can be made to this body? 
+
+Misconduct
+Sub-category
+Explanation / Examples	
+Police Misconduct, Administrative Employee Misconduct and Crime Commissioner Officer Misconduct
+s 9 Law Enforcement Conduct Commission Act 2016 (NSW)
+Any misconduct (including an action or inaction) of a police officer, administrative employee or Crime Commissioner Officer irrespective of whether or not:
+- it also involves participants who are not police officers, administrative employees or Crime Commissioner Officers (as applicable),
+- it occurs while the person is officially on duty, or
+- it occurred outside the State of NSW or Australia.
+This misconduct can be conduct which occurred at any time.
+This misconduct can involve (but is not limited to) any of the following:
+- conduct of the officer or employee that constitutes a criminal offence,
+- conduct of the officer or employee that constitutes corrupt conduct,1
+- conduct of the officer or employee that constitutes unlawful conduct (not being a criminal offence or corrupt conduct),
+- conduct of the officer or employee that constitutes a disciplinary infringement.
+Serious Misconduct
+Conduct that could be a serious criminal offence / result in serious disciplinary action
+s 10, Law Enforcement Conduct Commission Act 2016 (NSW) 
+Conduct of a police officer, administrative employee or Crime Commission officer that could result in the prosecution of the officer or employee for a serious offence or serious disciplinary action against the officer or employee for a disciplinary infringement. 
+eg. Police officers lying under oath (perjury), using unlawful force, intimidating and abusive language, and demonstrating racial prejudice.
+serious disciplinary action against an officer or employee means terminating the employment, demoting or reducing the rank, classification or grade of the office or position held by the officer or employee or reducing the remuneration payable to the officer or employee. 
+serious offence means a serious indictable offence and includes an offence committed elsewhere than in New South Wales that, if committed in New South Wales, would be a serious indictable offence.
+A pattern of misconduct
+s 10(1)(b) Law Enforcement Conduct Commission Act 2016 (NSW)
+A pattern of officer misconduct, officer maladministration or agency maladministration carried out on more than one occasion, or that involves more than one person, that is indicative of systemic issues that could damage the integrity and reputation of the NSW Police Force or the Crime Commission.
+eg: Police officers making the same – or similar – errors for several years across the state, adversely affecting many individuals.
+Corrupt conduct
+s 10(1)(c) Law Enforcement Conduct Commission Act 2016 (NSW); ss 7 and 8, Independent Commission Against Corruption Act 1988 (NSW)
+Corrupt conduct of a police officer, administrative employee or Crime Commission officer.
+Corrupt conduct has the meaning it has in the Part 3 of the Independent Commission Against Corruption Act 1988 (NSW). In relation to public officials, this essentially means conduct that involves a breach of public trust, dishonest or biased use of public power, misuse of confidential information, or conspiracy to do any of these things. It also includes any conduct (whether or not engaged in by a public official) that does or could adversely affect (directly or indirectly) the honest or impartial exercise of any public official’s official functions, any group or body of public officials or any public authority.
+eg: Police officers being involved in a company where fraud is committed regularly.
+Maladministration
+Agency Maladministration
+s 11(1) Law Enforcement Conduct Commission Act 2016 (NSW)
+Any conduct (by way of action or inaction) of the NSW Police Force or the Crime Commission:
+- that is unlawful (i.e., constitutes an offence or us corrupt conduct / otherwise unlawful), or
+- that, although not unlawful:
+o is unreasonable, unjust, oppressive or improperly discriminatory in its effect, or
+o arises, wholly or in part, from improper motives, or
+o arises, wholly or in part, from a decision that has taken irrelevant matters into consideration, or
+o arises, wholly or in part, from a mistake of law or fact, or
+o is conduct of a kind for which reasons should have (but have not) been given, or
+- in engaged in according to a law or practice which itself is or may be unreasonable, unjust, oppressive or improperly discriminatory in effect. 
+Agency maladministration is serious maladministration if the conduct involved is unlawful (i.e., constitutes an offence or is corrupt conduct / otherwise unlawful).
+Note: Certain conduct is excluded. See below at ‘What is NOT included?’ 
+Officer Maladministration
+s 11(2) Law Enforcement Conduct Commission Act 2016 (NSW)
+Any conduct (by way of action or inaction) of a police officer, administrative employee or Crime Commission officer that, although it is not unlawful (that is, does not constitute an offence or corrupt conduct):
+- is unreasonable, unjust, oppressive or improperly discriminatory in its effect, or
+- arises, wholly or in part, from improper motives, or
+- arises, wholly or in part, from a decision that has taken irrelevant matters into consideration, or
+- arises, wholly or in part, from a mistake of law or fact, or
+- is conduct of a kind for which reasons should have (but have not) been given.
+Officer maladministration is serious maladministration if the conduct involved is of a serious nature and, although it is not unlawful:
+- is unreasonable, unjust, oppressive, or improperly discriminatory in its effect, or
+- arises wholly or in part from improper motives.
+E.g. A police officer arresting a person because of that person’s ethnicity as perceived by the officer, as opposed to legitimate reasons.
+What is NOT included? 
+s 11(4) Law Enforcement Conduct Commission Act 2016 (NSW)
+Excluded conduct means conduct of the Crime Commission or its officers (as applicable) relating to any of the following:
+- a decision that may be reviewed by the Supreme Court 
+- a Crime Commission hearing or investigation
+- court proceedings (including a coronial inquiry and committal proceedings before a magistrate) or before any other similar person or body
+- its role as a legal advisor to public bodies
+- the functions of its executive officers and management.
+Step 2: What is the Jurisdiction of the complaints body?
+Jurisdiction
+Description
+Federal or State jurisdiction?
+
+The LECC deals with NSW-based maladministration issues. That is, it deals with maladministration by the New South Wales Crime Commission and the NSW Police Force.
+Geographical Scope
+s 9(1), (2) and (3), Law Enforcement Conduct Commission Act 2016 (NSW)
+The LECC may investigate complaints of misconduct irrespective of where it occurred (e.g., outside NSW or outside Australia). As noted above, complaints of maladministration relate to NSW agencies, (i.e., the New South Wales Crime Commission and the NSW Police Force). 
+Time Limitations
+
+None.
+Exclusions
+
+None.
+
+Additional information you need to know
+ss 35 and 97, Law Enforcement Conduct Commission Act 2016 (NSW)
+After you make a complaint to the LECC you can still make a complaint to the Police Commissioner or the Crime Commission.
+The LECC may investigate your complaint even if civil or criminal court proceedings have begun in relation to the matter.
+Step 3: Who can you make a complaint against? 
+Respondent
+Description
+Individuals and the Crime Commission / NSW Police Force
+ss 35 and 9(5), Law Enforcement Conduct Commission Act 2016 (NSW)
+Complaints can be made about:
+- a police officer, Crime Commission officer or administrative employee regarding conduct that is (or could be) officer misconduct or officer maladministration, and
+- the Crime Commission or the NSW Police Force regarding conduct that is (or could be) agency maladministration.
+A public official2 may complain to the LECC about the conduct of a police officer, Crime Commission officer or administrative employee.
+Complaints can be made about the conduct of an individual, even though they are no longer employed as a police officer, administrative employee or Crime Commission officer (but only in relation to conduct occurring while they held that role). References to a police officer, administrative employee or Crime Commission officer in the LECC Act extend, where appropriate, to include former police officers, administrative employees and Crime Commission officers.
+Exclusions
+
+Particular conduct is excluded from the definition of maladministration. See above at Step 1.
+
+Additional information you need to know
+N/A.
+Step 4: Are you eligible to make a complaint?
+Eligibility
+Description
+Complainants
+s 35 Law Enforcement Conduct Commission Act 2016 (NSW)
+Any person (including a public authority) can complain to the LECC about misconduct or maladministration.
+Time Limits
+None.
+Exclusions
+None.
+Additional information you need to know
+There is no cost for lodging a complaint.

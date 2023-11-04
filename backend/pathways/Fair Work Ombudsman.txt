@@ -1,0 +1,203 @@
+﻿
+Fair Work Ombudsman
+
+In this fact sheet, we introduce the Fair Work Ombudsman. We outline how complaints can be made by employees to the Fair Work Ombudsman. 
+The Fair Work Ombudsman acts to promote and monitor compliance of workplace laws. They aim to help both employees and employers understand their rights, responsibilities and obligations in the workplace, while also investigating breaches of the Fair Work Act (Cth) (FW Act). In some circumstances, litigation may also be required to enforce workplace laws and deter people from doing wrong in the community. 
+It is an independent body established by the FW Act (s 681) and its goal is to promote harmonious, productive, cooperative and compliant workplace relations. The Fair Work Ombudsman also appoints Fair Work Inspectors who are empowered to investigate and enforce compliance with workplace laws and industrial instruments.
+
+Legislation and Key Terms
+Relevant Legislation: 
+• Fair Work Act 2009
+
+Key terms: 
+Complainant: The person who files a complaint.
+Compliance notice: A notice issued by a work inspector if they think someone has broken work-related rules. It tells the person what they must do to fix the problem, and they may need to show proof that they did it.
+Enforceable undertaking: An agreement between a person who broke work rules and the authorities.
+Genuine redundancy: Legally terminated job as a result of the job being no longer needed, following proper consultation procedures.
+National Employment Standards (NES): Minimum work entitlements applicable to all Australian employees, including maximum hours, leave, and notice periods.
+Notices to produce: A notice from a work inspector that says someone must show certain papers related to their job.
+Redundancy: Job termination due to job elimination, often involving redundancy pay.
+Registered Agreements and Enterprise Agreements: Contracts outlining employment terms, created between employers and employees or employee groups.
+
+Step 1: What type of Complaints can be made to this body? 
+
+Claims, disputes or issues 
+The Fair Work Ombudsman resolves a variety of claims, disputes and issues relating to employment law. The issues listed below are some of the most common types of complaints brought by employees to the Fair Work Ombudsman.
+Sub-category
+Example	
+Minimum wage
+Part 2-6 FWA
+Section 282 FWA
+
+Your wage does not meet the base rate pay under the modern award.
+For employees who are covered by a modern award and an enterprise agreement, their base rate of pay must not be less than the base rate of pay under the modern award (s 206(1) FW Act).1 You can check your pay rate using the Fair Work Ombudsman’s Pay and Conditions Tool.
+Example: Alex is 19 years old. They are a casual employee who is classified as Level 1 of the Fast Food Industry Award. Alex has been getting paid $20.00 per hour for the last six months. According to the Pay and Conditions Tool, their hourly pay rate is $24.73, and they are entitled to further penalties depending on whether they worked on Saturday and Sunday. It is likely that Alex has been underpaid.
+Notice of termination
+Section 22 and 117 FWA
+You are not given a correct form of notice or amount of notice when your employment was terminated.
+Form of notice
+Employers must provide employees with written notice of the termination date when ending their employment. However, an employer can give notice to the employee by:
+• delivering it personally;
+• leaving it at the employee’s last known address;
+• sending it by pre-paid post to the employee’s last known address; or 
+• if the employee agrees, sending it electronically by email or text message.
+How much notice? 
+Employers must give the following minimum notice periods when dismissing an employee. Employees over 45 years old and who have worked for the employer for at least 2 years can have an extra week of notice.
+Period of continuous service
+Minimum notice period
+1 year or less 
+1 week
+More than 1 year – 3 years 
+2 weeks
+More than 3 years – 5 years 
+3 weeks
+More than 5 years 
+4 weeks
+Can I have a longer minimum notice period?
+You may be able to have a longer minimum notice period if an award, employment contract, enterprise agreement or other registered agreement can set out longer minimum notice periods.
+If you are covered by an enterprise agreement, you should check the terms of your agreement to confirm your notice period.
+Taking leave during a notice period 
+Employees can take annual leave during a notice period if the employer agrees to the leave. However, an employer cannot force an employee to take leave as part of the notice period. 
+The notice period can include public holidays. 
+Sick leave during notice period 
+An employee can take sick leave during the notice period if they give:
+• notice of the leave as soon as possible
+• evidence if the employer asks for it.
+If the employee has no paid sick leave left, they may take unpaid sick leave. The employee must give the employer notice and evidence.
+If your employer has forced you to take annual leave during your termination notice period, you should contact the Fair Work Ombudsman.
+Example: Martin is 48 years old and has been working for the same company for 10 years. He was given two weeks’ written notice by email. This is likely to be a breach of the Fair Work Act. 
+Resignation and notice
+Section 22 and 117 FWA
+Your employer has rejected your resignation.
+An employer cannot choose to accept or reject the employee’s resignation, given it has been provided properly. Usually, employers acknowledge an employee’s resignation and then the employee works as usual until the end of the notice period, when their employment ends.2
+If your employer has rejected your resignation, you should contact the Fair Work Ombudsman.
+Redundancy
+Sections 119, 139, 388 and 389 FWA
+Your employer has made your job redundant with no redundancy or severance pay.
+If you know or suspect that your job has been made redundant, and you have not received redundancy or severance pay, you should contact the Fair Work Ombudsman.
+Redundancy happens when an employer either:
+• does not need your job to be done by anyone; or
+• becomes insolvent or bankrupt.
+A redundancy may happen when the business:
+• introduces new technology; 
+• slows down due to lower sales or production;
+• closes down; 
+• relocates interstate or overseas; 
+• restructures or reorganises because a merger or takeover happens.
+Genuine redundancy 
+A genuine redundancy occurs when:
+• your job does not need to be done by anyone; and 
+• the employer followed any consultation requirements in the award, enterprise agreement or other registered agreement.
+If there is a genuine redundancy, you cannot make an unfair dismissal claim.
+A dismissal is not a genuine redundancy if the employer: 
+• still needs your job to be done by someone;
+• has not followed relevant requirements to consult with you about the redundancy under an award or registered agreement; or 
+• could have reasonably, in the circumstances, given you another job within their business or an associated entity.
+Consultation with employees about major workplace changes 
+• All awards and registered agreements have a consultation process for when major changes to workplaces happen, such as redundancies.
+Please note: If you think that you have been unfairly dismissed, you have 21 days starting from the day after you were dismissed to lodge an application with the Fair Work Commission. 
+Redundancy pay 
+If you are an employee and your job has been made redundant, your employer may have to pay you redundancy pay, also known as severance pay.3 
+You can use the Fair Work Ombudsman’s Notice and Redundancy Calculator to calculate redundancy pay.
+Note: An employer can apply to the Fair Work Commission to have the amount of redundancy pay reduced.4
+• the employer finds other acceptable employment for the employee, or 
+• the employer cannot afford the full redundancy amount. 
+Employers cannot apply to the Fair Work Commission reduce the redundancy pay if the redundancy entitlements come from an award or an agreement. 
+Example #1: Charlie was informed that their role was redundant due to new technology automating her work. However, a week after they were informed that he role was redundant, they saw that their company posted a job ad for the same position title, with the same listed duties. Charlie may be entitled to make an unfair dismissal application to the Fair Work Commission. 
+Example #2: Max works for a company that makes car parts. Their manager informs them that as the company is shutting down, Max will be made redundant, but will not be entitled to redundancy pay. It is likely that Max will be entitled to redundancy pay.
+National Employment Standards
+Section 61 FWA
+Your employee entitlements are ignored or rejected by your employer.
+If you are an employee, your minimum entitlements are in the National Employment Standards (NES). If you know or suspect that you have not been given your minimum entitlements, you should contact the Fair Work Ombudsman. 
+A registered agreement can provide other entitlements, but the entitlements cannot be less than what is in the NES. If an award covers an employee, the entitlements for the employee cannot be less than what is in the award. Your entitlements under the NES, award or registered agreement cannot be limited by the NES. 
+What are the minimum entitlements of the NES?
+The 11 minimum entitlements of the NES are: 
+• Employers must not request or require an employee to work more than the maximum weekly hours (s 62 FWA)
+• Requests for flexible working arrangements (s 65 FWA)
+• Employers must make offers and some employees may request to convert from casual to permanent employment (s 66B FWA)
+• Some employees are entitled to parental leave and related entitlements (s 67 FWA)
+• Employees other than casual employees are entitled to annual leave (s 87 FWA)
+• Some employees are entitled to personal/carer’s leave (s 96 FWA), compassionate leave (s 104 FWA) and family and domestic violence leave (s 106A FWA) 
+• The entitlement to be absent from work for engaging in eligible community service (s 108 FWA)
+• Some employees are entitled to long service leave (s 113 FWA)
+• The entitlement to be absent on public holidays (s 114 FWA)
+• Requirement for notice of termination and redundancy pay (s 117 FWA)
+• Employers must give each employee the Fair Work Information Statement (s 125 FWA) and Casual Employment Information Statement (s 125B FWA).
+For more information, please use this link to read more about the NES.
+Example: Chris works at a 24/7 fast food restaurant. They have been working there for 18 months and has worked approximately the same hours every week. Chris told their manager that they want to become a permanent employee. The manager said that they cannot become a permanent employee as they were hired as a casual employee.
+The NES covers all employees who are in the national workplace relations system. The NES will cover employees, even if the employees are covered by an award, registered agreement or employment contract. 
+Note: Casual employees only get some NES entitlements, including:
+• offers and requests to convert from casual to permanent employment;
+• paid family and domestic violence leave; 
+• unpaid carer’s leave; 
+• unpaid compassionate leave;
+• unpaid community service leave; and 
+• the Fair Work Information Statement and the Casual Employment Information Statement. 
+There are some exceptions to this. You should refer to this link if you are a casual employee.
+Modern Awards 
+Part 2-3 FWA and section 132 FWA
+Your employer has breached a provision of the Modern Award.
+Awards, also known as modern awards, are legal documents that outline the minimum pay rates and employment conditions.5 Awards apply to employers and employees. They depend on the industry and the type of job. 
+To work out which award applies to you, read the coverage clause (this is usually clause 4) and the job classifications (usually in the pay clause or schedule). To find out which award applies to you, click this link.
+Example: Rob is classified under Level 1 of the Legal Services Award. However, the company that they work for has a policy that employees are not to take more than 10 minutes for a lunch break. This policy is enforced. 
+Registered agreements and enterprise agreements
+Part 2-4 FWA and s 169 FWA
+Your employer has breached a term of an enterprise or registered agreement.
+Registered agreement 
+If your workplace has a registered agreement, then awards will not apply. To find agreements, click this link.
+Enterprise agreements 
+There are three types of enterprise agreements:
+• Single enterprise agreements (covering a single business or enterprise); 
+• Multi-enterprise agreements (covering more than one business or enterprise); 
+• Greenfields agreements (covering new enterprises that don’t have employees yet).
+If an enterprise or registered agreement applies to employees in a workplace, no award will apply to those employees. The base rate of pay in the agreement cannot be less than in the award or the National Employment Standards. To find an enterprise agreement, click this link.
+What is NOT included? 
+Unfair dismissal: section 385 FWA
+Bullying: s 789FA FWA 
+
+The Fair Work Ombudsman cannot assist with:
+• unfair dismissal and unlawful termination applications;
+• bullying and harassment claims;
+• workplace health and safety laws and disputes;
+• issuing employment separation certificates;
+• issues that happened more than 6 years ago.
+
+Step 2: What is the Jurisdiction of the complaints body?
+Jurisdiction
+Description
+Federal
+This complaints body has powers to hear complaints under the Fair Work Act 2009 (Cth). 
+Geographical Scope
+The Fair Work Act applies to employees, employers, contractors and the wider workplace community in Australia. 
+Time Limitations
+Sections 544 and 545(5) FWA
+You can make a complaint to the Fair Work Ombudsman about an issue which happened more than 6 years ago, but the Fair Work Ombudsman cannot bring your employer to court or to enforce a correction of that issue. 
+Applications for court orders for a breach of a contractual entitlement (either arising from the NES or a modern award), civil remedy provisions (see section 539 of the FW Act) or breach of the NES must be brought within 6 years after the day on which the breach happened. 
+For underpayment complaints, the application must be made to the court within 6 years.
+You should contact the Fair Work Ombudsman as soon as possible if you would like to make a complaint. 
+Exclusions
+
+The Fair Work Ombudsman cannot handle complaints about employment issues in the state public sectors or local govenments.
+You cannot make a general protections court application in relation to a non-unfair dismissal event if you have made an application under an anti-discrimination law or if you have made it to the Australian Human Rights Commission. 
+Exercise of discretion 
+Litigation against the employer is conducted at the discretion of the Fair Work Ombudsman. This depends on the amount of evidence they have and whether it is in the public’s interest to bring the case to court.
+Step 3: Who can you make a complaint against?
+Respondent
+Description
+All employers
+
+You can make a claim against any employer, including an individual, business or company.
+Exclusions
+You cannot make a complaint about your state public sector or local government employer.
+Step 4: Are you eligible to make a complaint?
+Eligibility
+Description
+Located in Australia
+
+You must be a worker in Australia. You do not need to be a citizen to make a complaint to the Fair Work Ombudsman. Visa holders and migrant holders have the same workplace entitlements and protections as all other employees in Australia. 
+Exclusions
+If you are an independent contractor, you will not be able to lodge a complaint through the Fair Work Ombudsman, unless you think you have been incorrectly engaged as an independent contractor. If you think you may have been incorrectly engaged as an independent contractor, you should contact the Fair Work Ombudsman.
+Independent contractors and employees have different rights and obligations.  For support resolving disputes, you should contact the Australian Small Business and Family Enterprise Ombudsman. They can help you with issues such as recovering unpaid invoices. 
+You cannot complain to the Fair Work Ombudsman if you are employed in the state public sector or local government.
+Additional information you need to know
+Although it is not an exclusion, there may be consequences under the Migration Act for migrant workers who do not comply with their visa conditions or with the Migration Act. However, it does not have an impact on whether your employment contract or contract for services under the FWA is valid. You can still ask for help from the Fair Work Ombudsman.

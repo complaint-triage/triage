@@ -1,0 +1,16 @@
+{
+    "locations": [
+        "NSW",
+        "ACT",
+        "QLD",
+        "SA",
+        "TAS",
+        "VIC",
+        "WA",
+        "Overseas"
+    ],
+    "time_limitations": "\"None\"",
+    "subjects": [
+        "Advertisers and brands"
+    ]
+}

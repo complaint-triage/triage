@@ -1,0 +1,21 @@
+{
+    "locations": [
+        "NSW",
+        "ACT",
+        "QLD",
+        "SA",
+        "TAS",
+        "VIC",
+        "WA",
+        "Overseas"
+    ],
+    "time_limitations": "\"21 days for Unfair Dismissal and General Protections (Dismissal) applications, 6 years for General Protections (No Dismissal) applications, any time during employment after the first 12 months and 21 days for Casual Conversion Dispute applications, any time during employment for Stop Bullying applications, and 24 months for Sexual Harassment Dispute applications.\"",
+    "subjects": [
+        "Unfair Dismissal",
+        "General Protections (Dismissal)",
+        "General Protections (No Dismissal)",
+        "Casual Conversion",
+        "Stop Bullying",
+        "Sexual Harassment"
+    ]
+}

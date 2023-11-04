@@ -1,0 +1,18 @@
+{
+    "locations": [
+        "NSW",
+        "ACT",
+        "QLD",
+        "SA",
+        "TAS",
+        "VIC",
+        "WA"
+    ],
+    "time_limitations": "\"None\"",
+    "subjects": [
+        "NDIS services or supports not provided in a safe and respectful way",
+        "NDIS services or supports that were not delivered to an appropriate standard",
+        "How an NDIS provider has managed a complaint about services or supports provided to an NDIS participant",
+        "NDIS provider\u2019s treatment of an advocate or carer of NDIS participant."
+    ]
+}

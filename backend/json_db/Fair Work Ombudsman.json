@@ -1,0 +1,21 @@
+{
+    "locations": [
+        "NSW",
+        "ACT",
+        "QLD",
+        "SA",
+        "TAS",
+        "VIC",
+        "WA"
+    ],
+    "time_limitations": "\"6 years\"",
+    "subjects": [
+        "Minimum wage",
+        "Notice of termination",
+        "Resignation and notice",
+        "Redundancy",
+        "National Employment Standards",
+        "Modern Awards",
+        "Registered agreements and enterprise agreements"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "locations": [
+        "NSW",
+        "ACT",
+        "QLD",
+        "SA",
+        "TAS",
+        "VIC",
+        "WA",
+        "Overseas"
+    ],
+    "time_limitations": "\"None\"",
+    "subjects": [
+        "Public officials",
+        "Commonwealth agencies and the heads of those agencies",
+        "Contracted service providers",
+        "Parliamentarians and their staff"
+    ]
+}

@@ -1,0 +1,268 @@
+﻿
+Australian Communications and Media Authority (ACMA)
+
+In this fact sheet, we introduce the Australian Communications and Media Authority (ACMA). ACMA is an independent Commonwealth statutory authority established by section 6 of the Australian Communications and Media Authority Act 2005. It regulates broadcasting services, radio communications, telecommunications and certain online content in Australia. It investigates, enforces and prosecutes complaints relating to communications and media services.
+The ACMA regulates the broadcasting sector (radio and television) in Australia, including commercial and community radio, and free-to-air and subscription television. It is responsible for ensuring broadcasters are following the law and meeting the conditions of their licence. 
+The ACMA assesses all complaints that allege a breach of the Broadcasting Services Act 1992 (BSA), licence conditions, standards and broadcasting codes.
+Legislation and Key Terms
+Relevant Legislation: 
+• Broadcasting Services Act 1992
+• Radiocommunications Act 1992
+• Telecommunications Act 1997
+• Telecommunications (Consumer Protection and Service Standards) Act 1999
+• Spam Act 2003
+• Do Not Call Register Act 2006
+• Interactive Gambling Act 2001
+Key terms:
+Complaint: An expression of dissatisfaction where a response or resolution is wanted, expected or required.
+Complainant: A person who has made a complaint.
+
+Step 1: What type of Complaints can be made to this body?
+
+Complaints about Broadcasting
+Sub-category
+Example	
+Programming on TV or radio 
+You can complain to the ACMA about issues such as accuracy and neutrality in news, disclosure of commercial arrangements in factual programs, distressing content, broadcast of terrorism related content and the classification of programs.
+Example: The ACMA commenced an investigation under the BSA into the program titled Hitler’s Last Year (Episode 2), broadcast by SBS, after it received a complaint alleging that the program was classified PG but contained content which exceeded the PG classification. The ACMA found SBS breached code 4.6 of the SBS Codes of Practice 2014 (revised July 2019). The ACMA found that the program’s treatment of distressing themes could not be accommodated in the PG classification and that SBS breached code 4.6.1 
+Example: The ACMA commenced an investigation under the BSA into a segment on Sunrise which was broadcast on Seven by Channel Seven Adelaide. The segment included a news report about a motorcycle accident. The ACMA received a complaint alleging that the report was not presented accurately because the news presenter said that the motorcycle rider ‘deliberately’ rode off a footpath and knocked a girl to the ground. The complaint was that the use of the word ‘deliberate’ was inaccurate as the statement assumed the intent of the rider, which the presenter could not have known. The ACMA found that the Channel Seven Adelaide breached clause 3.3.1 of the Commercial Television Industry Code of Practice 2015 (revised in 2018) because there was no reasonable basis for describing the act as deliberate.2 
+Example: The ACMA commenced an investigation into a broadcast of The Alan Jones Breakfast Show discussing comments made by the then-current New Zealand Prime Minister, Jacinda Ardern.. The ACMA received 127 complaints, alleging the broadcast encouraged violence, was sexist, offensive and derogatory. The ACMA found the licensee breached clause 2.2 of the Commercial Radio Code of Practice (2017) (revised in 2018) accepting that it was clear that Mr Jones used several violent descriptions to diminish Ms Ardern’s ‘political’ and ‘intellectual’ position and the audience would find the use of such violent descriptions offensive, among other breaches.3 
+Example: The ACMA commenced an investigation after receiving complaints alleging that comments made on the Kyle and Jackie O program about the Virgin Mary were offensive, amounted to ‘hate speech’ and ridiculed Christians in breach of Commercial Radio Code of Practice 2017 (revised in 2018). The ACMA found that the comments did not cause hatred and ridicule of Christians (clause 2.1.4) but it did offend generally accepted standards of decency (clause 2.2 of the Code), noting that to criticise people’s intelligence because of their religious beliefs, on-air, and in a manner that is very mocking and sarcastic, did not meet the expectations of broadcast material in Australia.4
+
+Captioning on TV
+Broadcasting Services (Television Captioning) Standard 2013
+You can complain about the quality of captions or lack of captions on the ABC, SBS, commercial or subscription TV.
+Captions are used to help viewers who cannot hear audio to watch programs. They transcribe dialogue, describe background noises, differentiate speakers and provide other relevant information about the audio being played. 
+Captions are different to subtitles. Subtitles are used by people who cannot understand the language being used in a program.  
+Example: The ACMA commenced an investigation into Channel Seven Melbourne after receiving a complaint alleging that the captioning provided on its broadcast of a live press conference by the Victorian Government relating to COVID-19 and wild weather events in Victoria was inaccurate. The ACMA found the captioning service did not meet the quality requirements under the Broadcasting Services (Television Captioning) Standard 2013 and the Licensee failed to comply with s 130ZZA(4) of the BSA relating to quality and paragraph 7(1)(o) of Schedule 2 to the BSA which deals with captioning of television programs for the deaf and hearing impaired.5 
+Advertising on TV or radio 
+You can complain to the ACMA about:
+• ads for alcohol being shown during children’s programs with a C or P rating;
+• the tagging of political matter (including election and referendum ads);
+• election ads during an election blackout period;
+• referendum ads during a referendum blackout period;
+• ads you have seen or heard for tobacco;
+• a gambling service being advertised, or live odds being promoted, during live sport streamed online;
+• live gambling odds being promoted during breaks in play (such as half time);
+• the content of gambling ads shown during live sport streamed online. Gambling ads during live sport on TV, radio and online are not allowed to contain content that targets children, makes exaggerated claims, suggests that gambling is a way to achieve success or make a connection between betting or gambling and alcohol; or
+• ads that are on community TV or radio.
+For most complaints about ads during children’s TV shows on commercial free-to-air or pay TV, such as programs classified C or G, you need to complain to the broadcaster.
+Example: The ACMA commenced an investigation under the BSA into the live coverage of the 2020 Olympic Games, broadcast on Seven by Channel Seven Sydney Pty Limited, after it received a complaint alleging that gambling advertisements were played during a men's basketball game and before 8:30pm. The ACMA found Seven Sydney to have breached clause 3.1 (Commercials relating to Betting or Gambling – 5:00 am to 8:30 pm) of Appendix 3 to the Commercial Television Industry Code of Practice 2015 (revised in 2018).6
+Advertising by online content providers
+Example: The ACMA commenced an investigation under the BSA into Streamotion Pty Ltd’s service (Kayo Sports), after receiving two complaints alleging that gambling advertisements were streamed two minutes before the start of an AFL match and during quarter and half-time breaks. The ACMA found that gambling promotional content was provided in conjunction with live coverage of a sporting event in contravention of section 12 of the Broadcasting Services (Online Content Service Provider Rules) 2018.7
+Complaints about Media control and ownership 
+
+The ACMA monitors and responds to complaints about control and ownership of Australian media. 
+You can complaint to the ACMA about a breach of statutory control, media diversity requirements or directorship rules.  
+Complaints about Telecommunications
+Telecommunications Services 
+Telecommunications providers (Telcos) must follow certain laws when they deliver mobile, landline, internet and NBN services to the public.
+You can make a complaint to the ACMA if:
+• you believe your telecommunications provider hasn’t followed the rules; or
+• the issue is likely to be systemic. 
+The ACMA does not investigate individual disputes between consumers and their telecommunications providers. This is done by the Telecommunications Industry Ombudsman (TIO).
+Example: The ACMA held the view that Telstra was not able to provide, verify and demonstrate billing accuracy for certain customers, in contravention of clause 5.5.1 of the Telecommunications Consumer Protections Codes of 2015 and 2019.8
+Removal of Payphones 
+Telstra manages public payphones across Australia in line with the Universal Service Obligation (USO) to make sure Australians have fair and reasonable access to payphones.
+You can complain to ACMA about Telstra removing a payphone. 
+Work on your property 
+You can complain to the ACMA if you think a telco did not follow the Telecommunications Code of Practice 2021 when they do work on your property. This includes taking all reasonable steps to:
+• do as little damage as is practicable;
+• restore the property as close as possible to its original condition;
+• restore your property within 10 days after finishing their work unless you or the occupier of the property agree to a different timeframe;
+• use good engineering practice;
+• protect people and property;
+• protect the environment; and
+• follow state, territory or local government rules for noise.
+They must also take reasonable steps not to interfere with:
+• traffic
+• water service
+• gas service
+• electrical service
+• sewerage service
+• public roads and paths
+• land use
+Their work on the facility must follow best practice. This includes the steps they take to:
+• design
+• plan
+• locate: orinstall
+Phone towers, mobile phone base stations and small cells
+Telcos must follow the rules in the Mobile Phone Base Station Deployment Code when installing phone towers, mobile base stations and small cells. You can complain to the ACMA if you think a telco did not follow the rules in the code, such as failing to consult with, or notify affected parties about an installation.
+Before making a complaint to the ACMA, the ACMA suggests that you:
+• write to the telco to make a formal complaint;
+• review the telco’s response to your complaint and make sure they addressed the points you raised; and
+• consider the telco’s comments about the proposal once the consultation period has finished.
+If you are not satisfied with how the telco handled your complaint, or believe the telco did not follow the rules, you may then make a complaint to the ACMA.
+The ACMA cannot authorise or assess a proposed facility installation. The Mobile Phone Base Station Deployment Code does not give the ACMA power to stop construction of a proposed facility or to have an existing facility relocated.
+Small cells 
+Small cells are radio transmitters for mobile phone services. Telcos install them on structures such as light poles, bus shelters and the sides of buildings.
+Telcos install and maintain small cells. They do not need a local council or other government to approve their work. When the small cell is to be used for mobile services, they must notify owners and occupiers before they install. Telcos must follow the Mobile Phone Base Station Deployment Code. Under this code they must:
+• tell councils and the public about their plans and when they will install
+• respond to submissions from councils during the comment period
+You can make a complaint to the ACMA if you think a Telco has not followed the code. 
+Complaints about Telemarketing and spam
+Telemarketing calls 
+Telemarketing is any call where the caller aims to sell, advertise or promote goods or services. If you don’t want these calls, you can sign up to the Do Not Call Register. 
+If your number has been on the register for 30 days, and you still receive a telemarketing call, you can make a complaint to the ACMA. 
+Example: The ACMA issued a formal warning to Dodo Services Pty Ltd. The ACMA had reasonable grounds to believe that Dodo Services made (or caused to be made) several telemarketing calls to Australian numbers on the Do Not Call Register in contravention of section 11(1) of the Do Not Call Register Act 2006.9
+Spam 
+Spam is an unwanted email, text or instant message that advertises goods or services. To send these commercial electronic messages, the sender must: 
+• have your consent to receive the message; 
+• include their contact details in the message; and 
+• include in the message a way for you to unsubscribe or stop receiving future messages. 
+The ACMA can take complaints and reports from people who think a business has broken the rules.
+Political messages are often sent in the lead up to elections, referendums or plebiscites. They are not generally considered to be commercial messages, so do not need to follow the above rules. Complaints about non-commercial political messages may be directed to the authoriser of the message. 
+Example: The ACMA issued Ticketek with a formal warning. The ACMA had reasonable grounds to believe that Ticketek was in breach of section 16(1) of the Spam Act 2003, as it sent marketing emails more than 5 business days after consumers had unsubscribed to receive such emails.10 
+Complaints about Gambling 
+The ACMA ensures that businesses that operate online gambling services do not provide or advertise prohibited gambling services to the Australian public. 
+Illegal gambling services and interactive gambling 
+Interactive Gambling Act 2001
+
+You can make a complaint to ACMA about:
+Prohibited interactive gambling services and ads for them
+This includes online casinos (like poker, blackjack and roulette), online slot machines and online wagering services that accept 'in pay' betting on sporting events. 
+Unlicensed regulated interactive gambling services and ads for them
+The Interactive Gambling Act 2001 (IGA) requires gambling and betting operators of websites, apps or live streaming services to be licensed. 
+You can check if an operator is license on ACMA’s website: https://www.acma.gov.au/check-if-gambling-operator-legal. 
+Wagering credit betting 
+It is illegal for gambling operators to provide credit to Australian-based customers or to help them access credit.
+Example: Bet Right (IRPSX Pty Ltd) was found to have provided a prohibited interactive gambling service in contravention of section 15(2A) of the IGA. The ACMA found that Bet Right provided an in-play betting service as it accepted 11 online in-play sporting bets on 21 November 2021 and 1 online in-play sporting bet on 21 December 2021 after the sporting event had commenced.11
+Example: We Love Lotto (Ardura Ventures Ltd) allowed Australian customers to submit an order for a ticket in an offshore lottery, an agent in that country would purchase the ticket on their behalf and the customer would be provided with a scanned copy of the purchased ticket. The ACMA found that We Love Lotto provided an unlicensed regulated interactive gambling service as the service provider did not have an Australian licence.The ACMA found this conduct contravened section 15AA(3) of the IGA.12  
+Blocked gambling websites 
+You can make a complaint about a gambling website that you believe has been incorrectly blocked. 
+The National Self-Exclusion RegisterTM -- BetStop  
+BetStop, is a National Self-Exclusion RegisterTM that allows you to exclude yourself from all licensed Australian interactive wagering services. 
+If you exclude yourself using this register, gambling service providers must close all your betting accounts and not allow you to place a bet, open a new account or send you marketing messages.
+You can complain about a business not meeting its obligations under the register. 
+Complaints about Cabling
+Cabling in your home of office
+You can make a complaint about:
+• someone working as a cabler without the correct registration or supervision;
+• a cabler has not followed the Cabling Provider Rules;
+• cabling products not being correctly labelled; or
+• work not meeting the installation standards or other regulations.
+The ACMA does not investigate the quality of work, such as messy or visible cabling. The ACMA can only act if the cabler is not registered (or supervised) or if they have breached the Wiring Rules.
+Complaints about Radio and TV interference 
+Radio and TV 
+You can make a complaint for the ACMA about radio interference or digital TV interference caused by a problem is outside your house.  
+Satellite TV 
+Viewer access satellite television (VAST) is available if you live in an area with poor free-TV coverage or are in a caravan, boat or campervan without access to a reliable TV signal.
+You can make a complaint to the ACMA if your VAST access application has been:
+• refuse;
+• revoked; or
+• not decided within 15 business days.
+Complaints about Products 
+Technical Standards
+You can report non-compliant or unlabelled products  to the ACMA.
+
+
+
+
+
+Step 2: What is the Jurisdiction of the ACMA? (General Jurisdiction)
+
+Jurisdiction
+Description
+Federal 
+The ACMA has powers to hear complaints under the law of the Commonwealth. Your complaint should relate to an issue within Australia or involve an Australian service provider.
+Geographical Scope
+The ACMA has power to act on complaints about the communication and media section anywhere in Australia. 
+Time Limitations
+The ACMA does not specify a time limit for lodging complaints.
+
+Exclusions
+
+The ACMA cannot handle complaints about the following:
+
+Online misinformation
+The ACMA cannot handle complaint about false, misleading or deceptive information that is broadcast. This may include: 
+• made-up news articles
+• doctored images and videos
+• false information shared on social media
+• scam advertisements.
+Subtitles 
+The ACMA cannot handle complaints about the subtitles that are used by people who cannot understand the language used on a broadcast. 
+
+Phone and online scams
+The ACMA cannot handle complaints about phone or internet or scams.
+
+Radio and TV ads
+The ACMA cannot handle complaints about:
+• the scheduling or placement of an ad
+• how many ads are shown
+• how loud an ad is on TV
+• The content of ads, other than gambling ads.
+Phone and internet services
+The ACMA cannot handle complaints about the billing, contract terms or the services provided by phone and internet companies, including the NBN
+
+Copyright or performing and recording rights
+
+Prizes offered for competitions or quiz games on TV or radio
+
+The classification of movies that are not broadcast on television or on a subscription television service
+
+The classification of publications and computer game
+Journalists' code of ethics
+
+Claims of defamation in TV or radio broadcasting
+
+Articles or ads in the print media
+
+Disputes about pay TV equipment, charges or payment
+
+
+
+Step 3: Who can you make a complaint against? 
+
+Respondent
+Examples
+Individuals
+You can make a complaint about anyone involved in the complaint types listed in Step 1.
+TV stations 
+SBS, ABC, Channel Seven, Foxtel Cable Television, TCN Channel Nine, Golden West Network Pty Ltd, Network Ten, WIN Television, and Prime Television.
+Radio stations
+SBS, ABC, KIIS FM, and Triple M.
+Subscription services/online content providers
+Streamotion (Kayo), 7plus, and 9Now App.
+Phone and internet providers/Telcos 
+Telstra, Inspired Broadband, TPG Telecom Limited, Lycamobile Pty Ltd, Aussie Broadband Limited, Optus, Dodo Services, iiNet, Vodafone, Primus and Amnet Broadband.
+Online gambling providers 
+You can make a complaint about anyone who you believe has broken a rule in the Interactive Gambling Act 2001, whether an individual or a corporation.   
+Examples include: Highway Casino, Online Casinos Australia, Sportsbet, Lucky Star, Megaslot, Pokies Lab, Lotto Express and  Tabcorp.
+Cablers 
+You can make a complaint to the ACMA about a cabler (whether an individual or a company).
+Viewer access satellite television (VAST) administrator
+You can make a complaint against the VAST administrator that gives access to VAST.
+Other entities/businesses that the ACMA have investigated 
+Commonwealth Bank of Australia (spam investigation), The Wine Group (telemarketing investigation), Investors Choice Group (telemarketing investigation), Victorian Institute of Technology (spam investigation), Latitude Finance (spam investigation), Sportsbet (spam investigation), Phoenix Securities (spam investigations), Kohan Australian (spam investigation) and Woolworths (spam investigation).
+Exclusions
+Complaints about content on streaming services such as Netflix, Stan and Amazon Prime should be made to the service provider. The ACMA does not manage these complaints. 
+The ACMA cannot handle complaint about NBN services. These complaints should be directed to the Telecommunication Industry Ombudsman – See step 9
+
+
+Step 4: Who can make a complaint? 
+
+Category 
+Eligibility, description, time limits and exclusions
+Who can make a complaint
+Anyone can make a complaint to ACMA
+Pre-requisite steps
+ACMA encourages people to try to resolve the problem directly with the service or individual before lodging a complaint. If you have not taken that step, ACMA may decide not to act on your complaint. 
+For complaints about broadcasting and radio and TV interference you are required to take the below steps before making a complaint to the ACMA. 
+Complaints about broadcasting
+
+Content on TV or radio -
+Complaints about commercial television and radio programming must be made within 30 days of the broadcast.
+Complaints about a radio and TV programming on the ABC service should be made within 6 weeks of the broadcast. 
+Complaints about a radio and television programming on SBS service should be made within 4 weeks of the broadcast.
+You can complain to the ACMA if:
+• the broadcaster responds to you, but you are not satisfied with the response; or
+• you do not hear back from the broadcaster within 60 days. 
+Captioning on ABC or SBS -
+If you have a complaint about the captioning on a program broadcast by the ABC or SBS, you must write directly to the relevant broadcaster within 6 weeks of the broadcast.
+If you don't receive a response within 30 days, or you're not satisfied with the response, you can then refer your complaint to the ACMA.
+TV ads -
+For complaints about TV gambling ads and ads shown during children’s programs you must complaint to the broadcaster first.
+Complaints about radio and TV interreference
+ACMA will not investigate complaints about external interference to reception, unless an antenna specialist has checked your equipment.
+

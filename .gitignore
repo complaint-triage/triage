@@ -1,0 +1,9 @@
+# python
+.venv
+__pycache__
+
+# secret config
+secret.env
+
+# MacOS
+.DS_Store

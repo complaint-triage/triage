@@ -1,0 +1,29 @@
+{
+    "locations": [
+        "NSW",
+        "ACT",
+        "QLD",
+        "SA",
+        "TAS",
+        "VIC",
+        "WA"
+    ],
+    "time_limitations": "\"None\"",
+    "subjects": [
+        "Broadcasting",
+        "Captioning on TV",
+        "Advertising on TV or radio",
+        "Advertising by online content providers",
+        "Media control and ownership",
+        "Telecommunications Services",
+        "Removal of Payphones",
+        "Work on your property",
+        "Phone towers, mobile phone base stations and small cells",
+        "Small cells",
+        "Telemarketing and spam",
+        "Gambling",
+        "Cabling",
+        "Radio and TV interference",
+        "Products"
+    ]
+}

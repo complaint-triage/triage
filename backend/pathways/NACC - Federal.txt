@@ -1,0 +1,144 @@
+﻿
+National Anti-Corruption Commission (NACC)
+
+WARNING: Anything you include in a complaint may be used against you in other legal proceedings, e.g. if you are suing for financial compensation. If you are currently involved in legal action, do not proceed with a complaint before you have received advice from a suitably qualified lawyer.
+There may be more than one complaint pathway available to you. In some cases, your initial choice may affect future options available to you. See below for further details.
+In this factsheet, we introduce the National Anti-Corruption Commission (NACC). We outline how any person (including members of the public and public officials) can voluntarily refer a corruption issue, or provide information about a corruption issue, to the NACC. The purpose of this factsheet is to give general introductory information about the NACC and the complaints process. This factsheet does not contain legal advice. 
+The National Anti-Corruption Commission (NACC) is a body set up under the National Anti-Corruption Commission Act 2022 to enhance integrity in the Commonwealth public sector by deterring, detecting and preventing corrupt conduct involving Commonwealth public officials through education, monitoring, investigation, reporting and referral.
+Note the NACC is only able to investigate matters relating to Australian Government public officials. It will not be able to investigate concerns about state, territory or local government officials. Each state and territory have a similar integrity or anti-corruption commission that may be able to investigate those matters. Further, the NACC is not able investigate judges, the Governor-General, or Royal Commissioners.
+Legislation and Key Terms
+Relevant Legislation: [List any pieces of legislation that are relevant to the work of the complaint body. Include a link to the legislation.] Example:
+• National Anti-Corruption Commission Act 2022 (Cth)
+
+Key terms:
+Agency Head: The leader or top official in a government department, organization, or agency who is responsible for its overall management and decision-making.
+Complainant: A person who has made a complaint.
+Complaint: An expression of dissatisfaction where a response or resolution is wanted, expected or required.
+Improper Purpose: Refers to actions or motives that are not in line with the point of law, often involving personal gain, manipulation, or actions that undermine the organization's purpose or integrity.
+Systemic: Relating to or characteristic of a system, often referring to the inherent or widespread features, issues, or patterns within a particular system or organization. Systemic matters involve elements deeply rooted and affecting the entire system rather than isolated instances.
+
+Step 1: What type of Complaints can be made to this body? 
+
+Corrupt Conduct
+Definition
+The NACC can receive complaints about corrupt conduct that involve Commonwealth public officials. 
+A person engages in corrupt conduct if:
+Category 1: They are a public official and they breach public trust;1
+Category 2: They are a public official and they abuse their office as a public official;2
+Category 3: They are a public official or former public official and they misuse information they have gained in their capacity as a public official;3 or
+Category 4: They do something that could cause a public official to behave dishonestly or in a biased way when they carry out their official duties.4 
+Note: Any person can engage in Category 4 corrupt conduct, even if they are not a public official themselves.
+The NACC can investigate corruption issues that could involve corrupt conduct that is serious or systemic. It will be up to the Commissioner to decide if they think a particular allegation of corrupt conduct is serious or systemic.
+Category 1 – Breach of public trust
+
+A public official breaches public trust when they use the powers granted to them for an improper purpose.  A public official can breach public trust even if they don’t gain any advantage for themselves or someone else. A person will have engaged in corrupt conduct of this type even if they only try or plan to breach the public’s trust. 
+Example: A public official has the power to choose a supplier in a tender process. One of their core responsibilities is to ensure the tender is awarded in a way that achieves value for money for the Commonwealth. It would breach public trust to award the tender to a person known to the decision-maker, solely because the business hasn’t been going well lately. This is because the reason the tender is awarded is not consistent with achieving the best value for money for the Commonwealth. The tender was awarded for an improper purpose.  
+Note: A decision which benefits the public can still have been made for an improper purpose (and therefore be corrupt conduct).
+Category 2 – Abuse of office
+
+A public official abuses their office by knowingly engaging in improper acts or omissions in their official role, with an intention to gain a benefit for themselves or another person, or cause detriment to another person. A person will have engaged in corrupt conduct of this type even if they only try or plan to abuse their office.
+Example: A public official fails to declare or manage their conflict of interest within their official role.
+Example: A public official diverts agency resources for personal gain.
+Category 3 – Misuse of information
+A current or former public official misuses information or documents they have access to because of their official role. A person will have engaged in corrupt conduct of this type even if they only try or plan to misuse information or documents.
+Example: A former public official who worked in a regulator discloses commercially sensitive information to provide regulated entities a financial advantage.
+Example: A public official accesses information and discloses it to another person or public official in breach of applicable agency policies (regardless of intent).
+Note: There is no need to show that a public official intended to gain a benefit or cause a detriment to another person through the misuse of the information (or to show that they acted with dishonesty or bias).
+Category 4 – Causing a public official to behave dishonestly
+
+Engaging in conduct that does or could cause a public official to behave dishonestly or show bias in the exercise of their official functions, powers or duties.  
+Example: Offering a public official a bribe (monetary or other) to make a favourable decision, regardless of whether the official actually takes the bribe.
+Example: Pressuring a friend who works at the Department of Agriculture, Fisheries and Forestry for confidential and privileged information that affects your business.
+Example: An agency head at the ATO strongly suggests a staff member engage a less qualified contractor they are friends with.
+What is NOT included? 
+Corrupt conduct does not include conduct engaged in by a staff member of the High Court or of a court created by the Parliament to exercise a power, or perform a function or duty, of a judicial nature.5 
+The NACC is unable to review decisions made by public sector agencies – it can only investigate corrupt conduct involving public officials / individuals.
+The NACC is unable to investigate conduct by state, territory or local government officials.
+The NACC does not represent the complainant in resolving individual disputes – the purpose is to investigate and prevent corrupt conduct.
+The NACC may only conduct, or continue to conduct, a corruption investigation if of the opinion that the issue could involve corrupt conduct that is serious or systemic.6
+
+
+Step 2: What is the Jurisdiction of the complaints body? (General Jurisdiction)
+Jurisdiction
+Description
+Corrupt conduct involving Commonwealth public officials
+
+The NACC investigates corruption issues (potential corrupt conduct) engaged in by Commonwealth public officials (see definition above at Step 1).
+The jurisdiction of the NACC does not extend to state, territory or local government officials. Each state and territory has a similar integrity or anti-corruption commission that may be able to investigate those matters.
+Geographical Scope
+
+The NACC Act applies both within and outside of Australia and extends to the external Territories.7
+Time Limitations
+
+As soon as reasonably practicable after becoming aware of a corruption issue, an agency head8 must refer the corruption issue to the NACC Commissioner if the issue concerns the conduct of a person who is or was a staff member of that agency, and the agency head suspects the issue could involve corrupt conduct that is serious or systemic.
+Mandatory referral requirements came into force on 28 July 2023. Public Interest Disclosure officers and agency heads may voluntarily refer, at any time, any suspected corrupt conduct of which they were already aware prior to 1 July 2023.
+Exclusions
+
+See above at Step 1 – ‘What is NOT included?’
+Additional information you need to know
+
+Conduct may be corrupt conduct even though it occurred before the commencement of the NACC Act.9
+Step 3: Who can you make a complaint against? (Jurisdiction: Type of Respondents)
+Respondent
+Description
+Public officials
+
+Complaints to the NACC must in some way involve a “public official” which is defined broadly, and includes the following individuals10:
+- Ministers, Senators and members of the House of Representatives, and their staff;
+- Commonwealth agencies, their heads and staff, and Commonwealth companies;
+- where a Commonwealth agency is responsible for administering a Commonwealth contract, individuals who are either:
+- the contracted service provider for the contract; or
+- both an officer or employee of the contracted service provider for the contract and someone who provides goods or services for the purposes (whether direct or indirect) of the contract;11
+- staff members of the NACC; and
+- people acting for, on behalf of, as a deputy or delegate of, any of the above persons or bodies.
+Commonwealth agencies and the heads of those agencies
+
+Commonwealth agencies12 include:
+- government departments
+- other entities (such as the Australian Taxation Office or the Australian Federal Police)
+- bodies corporate established under Commonwealth legislation (such as CSIRO or land councils)
+- Commonwealth companies (such as NBN Co)
+- federal courts (but not judges)
+
+The public officials within those agencies include:
+- agency heads
+- employees
+- consultants
+- contractors
+- court officers
+- NACC staff members
+Contracted service providers
+A contracted service provider for a Commonwealth contract13 is:
+- A person (other than the Commonwealth or a Commonwealth agency) who is a party to the Commonwealth contract and is responsible for the provision of goods or services (or both) under it; or
+- A subcontractor to a contracted service provider.
+Parliamentarians and their staff
+
+Parliamentarians14 include:
+- ministers
+- their staff
+- consultants and volunteers
+Exclusions
+
+Corrupt conduct regarding the honest and impartial exercise or performance of any public official’s powers, functions or duties does not apply to15:
+- the Governor-General
+- a Deputy Governor-General
+- a Justice of the High Court or a judge of a court created by the Parliament
+- a judge of a court of a State or Territory
+- any public official / individual of a State, Territory, or Local government body
+- a member of a Royal Commission
+- the Inspector of the NACC, or a person assisting the Inspector.
+
+
+Additional information you need to know
+N/A.
+Step 4: Are you eligible to make a complaint? (Jurisdiction: Complainant’s Eligibility)
+Eligibility
+Description
+Who can refer an issue?
+Any person may voluntarily refer a corruption issue or provide other information about a corruption issue to the NACC (anonymously or otherwise).16  It is up to the Commissioner to determine whether to consider or respond to the referral.  The Commissioner may choose not to investigate.
+Time Limits
+There are no time limits for making a complaint of corrupt conduct.
+Exclusions
+There are no additional exclusions to any of those listed in the steps above regarding complainant eligibility.
+Additional information you need to know
+N/A.

@@ -1,0 +1,16 @@
+{
+    "locations": [
+        "NSW",
+        "ACT",
+        "QLD",
+        "SA",
+        "TAS",
+        "VIC",
+        "WA",
+        "Overseas"
+    ],
+    "time_limitations": "Category 1 complaints: Informally resolved within 5 business days; or Otherwise within 42 calendar days. Category 2 complaints within 66 calendar days. Category 3 complaints within 256 calendar days.",
+    "subjects": [
+        "AFP Appointee"
+    ]
+}
